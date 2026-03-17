@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/ld-byog/:/",
+    "/content/ld-byog/configuration:/.helix/config.json",
+    "/content/ld-byog/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ld-byog/"
   ]
 }
